@@ -1,14 +1,14 @@
-Run le script : tu fais juste
+Run script
 
-"gcc main.c -o main"  pour run le script sur ton compiler
-
-
-Changer les tests :
-- Pour tester une image tu vas dans le code et tu modifies le chemin de l'image
-
-- Pour le segment à tester pareil, la position verticale est fixé en partant de 0 à droite de l'image de base
+"gcc main.c -o main"  to run the script on your compiler
 
 
-Le résultat est sous "myPlotResult.png"   (abscisse = pixel i (0 à largeur image), ordonnée = gray value (0=noir à 255=blanc))
+Change image for test :
+- To test an image you go into the code and change the path of the image
+
+- For the segment to be tested the same, the vertical position is set from 0 to the right of the base image
+
+
+Th result under : "myPlotResult.png"   (absciss = pixel i (0 à largeur image), ordonnée = gray value (0=noir à 255=blanc))
 
 enjoy :)
