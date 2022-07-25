@@ -9,6 +9,8 @@ Change image for test :
 - For the segment to be tested the same, the vertical position is set from 0 to the right of the base image
 
 
-Th result under : "myPlotResult.png"   (absciss = pixel i (0 à largeur image), ordonnée = gray value (0=noir à 255=blanc))
+Th result under : "myPlotResult.png"   (absciss = pixel i (0 à largeur image), ordonnée = gray value (0=black à 255=white))
+
+Made for a Chemist friend.
 
 enjoy :)
